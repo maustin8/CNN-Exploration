@@ -2,6 +2,8 @@
 
 This is the final course project developed by Max Austin for CS5350/6350 in University of Utah
 
+This repo contains two datasets, area and test. These datasets contain the same type of images but different criteria was used when labeling the images and therefore the balance of these datasets are different.
+
 Note: the tensorflow library is required to run
 
 # To run program:  
