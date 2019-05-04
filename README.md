@@ -1,6 +1,6 @@
 # CNN-Exploration
 
-This is a machine learning library developed by Max Austin for CS5350/6350 in University of Utah
+This is the final course project developed by Max Austin for CS5350/6350 in University of Utah
 
 Note: the tensorflow library is required to run
 
